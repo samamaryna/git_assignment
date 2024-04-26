@@ -1,1 +1,1 @@
-# Git Assignment - <samamaryna>
+# Git Assignment - @samamaryna
