@@ -11,9 +11,12 @@ After your changes have been pushed to Github you can open a pull request by goi
 
 d. Give me a step by step guide on how to add someone to your repository.
 When in your repository, go to Repository Settings, then click on Collaborators, then Confirm access (if applicable), then click on the green button Add people, then search collaborators by their username, full name or email address, select from the drop down list, and click on Add "username" to this repository. 
+
 e. What is the difference between git and GitHub?
+Git is a free, open source version control tool and GitHub is an online service built to run Git in the cloud.
 
 f. What does git diff do?
+Git diff shows changes between commits, commit and working tree, etc.
 
 g. What is the main branch?
 
